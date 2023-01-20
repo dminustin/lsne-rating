@@ -24,7 +24,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Dminustin\\LSNE\\RatingPackage": "src"
+            "Dminustin\\LSNE\\RatingPackage\\": "src"
         }
     },
     "autoload-dev": {
