@@ -7,6 +7,7 @@
     "homepage": " https://github.com/dminustin/lsne-rating",
     "license": "MIT",
     "type": "library",
+    "minimum-stability": "dev",
     "authors": [
         {
             "name": "Danila Minustin",
@@ -16,11 +17,9 @@
     ],
     "require": {
         "php": "^7.4|^8.0",
-        "illuminate/support": "^8.0",
         "dminustin/lsne-core": "dev-master"
     },
     "require-dev": {
-        "orchestra/testbench": "^6.0",
         "phpunit/phpunit": "^9.0"
     },
     "autoload": {
